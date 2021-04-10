@@ -1,1 +1,1 @@
-# Repository for Applied Data Science Capstone
+# Repository for Coursera Capstone
